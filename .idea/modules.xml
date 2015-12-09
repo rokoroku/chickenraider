@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PartyRecruit.iml" filepath="$PROJECT_DIR$/PartyRecruit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circularReveal/circularReveal.iml" filepath="$PROJECT_DIR$/circularReveal/circularReveal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fab/fab.iml" filepath="$PROJECT_DIR$/fab/fab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistentSearch/persistentSearch.iml" filepath="$PROJECT_DIR$/persistentSearch/persistentSearch.iml" />
+    </modules>
+  </component>
+</project>
